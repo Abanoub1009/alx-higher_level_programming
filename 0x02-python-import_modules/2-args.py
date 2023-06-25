@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 # Retrieve the command-line arguments
